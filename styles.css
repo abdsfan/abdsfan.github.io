@@ -128,7 +128,7 @@ a:hover {
     border-radius: 4px;
     font-size: 18px;
     background-color: white;
-    background-image: url('../wisconsin/img/search.jpg');
+    background-image: url('img/search.jpg');
     background-position: 5px 5px; 
     background-repeat: no-repeat;
     padding: 5px 20px 5px 45px;
