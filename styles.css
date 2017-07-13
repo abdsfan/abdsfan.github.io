@@ -117,8 +117,8 @@ a:hover {
 .next {
     background-color: dimgray;
     color: white;
-    align-self: center;
-    margin-left: 495px;
+    float: right;
+
 }
 
 .search {
@@ -145,15 +145,6 @@ a:hover {
 width: 100
 
 }
-
-
-/*.sports {
-
-	align-items: right;
-	border-width: 200px;
-	height: 200px;
-}
-
 
 
 
