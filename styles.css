@@ -24,7 +24,7 @@
 	background-color: midnightblue;
 }
 .notActive :hover:not(.active) {
-	background-color: red;
+	background-color: lavender;
 }
 .size {
 	display: block;
